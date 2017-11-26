@@ -11,7 +11,7 @@ if(NOT ${OPENGL_FOUND})
     message("OPENGL not found")
 endif()
 
-set(PROJECT_SOURCE_DIR .)
+set(PROJECT_SOURCE_DIR src/)
 set(PROJECT_NAME 3D-DNA_Structure-in-OpenGL)
 
 include_directories(

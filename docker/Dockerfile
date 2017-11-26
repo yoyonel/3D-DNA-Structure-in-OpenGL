@@ -11,4 +11,4 @@ WORKDIR /
 
 ENV PROJECT_DIR /3D-DNA-Structure-in-OpenGL
 
-RUN git clone https://github.com/yoyonel/3D-DNA-Structure-in-OpenGL.git ${PROJECT_DIR}
+# RUN git clone https://github.com/yoyonel/3D-DNA-Structure-in-OpenGL.git ${PROJECT_DIR}
